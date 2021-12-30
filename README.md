@@ -1,1 +1,1 @@
-# Analise-de-dados-financeiros-com-Python-empresas-brasileiras
+# Análise de dados financeiros com Python | empresas brasileiras
